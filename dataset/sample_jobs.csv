@@ -1,0 +1,6 @@
+title,location,seniority,skills,source,license_note
+Data Analyst,Bengaluru,Mid,"SQL;Python;Tableau;Excel",Synthetic demo dataset,"Original synthetic records; safe for portfolio demonstration"
+Data Analyst,Remote,Entry,"SQL;Excel;Data Visualization",Synthetic demo dataset,"Original synthetic records; safe for portfolio demonstration"
+Frontend Engineer,Mumbai,Mid,"JavaScript;React;TypeScript;CSS",Synthetic demo dataset,"Original synthetic records; safe for portfolio demonstration"
+Product Manager,Delhi NCR,Senior,"Product Strategy;SQL;Roadmapping;Analytics",Synthetic demo dataset,"Original synthetic records; safe for portfolio demonstration"
+Machine Learning Engineer,Bengaluru,Senior,"Python;Machine Learning;SQL;MLOps",Synthetic demo dataset,"Original synthetic records; safe for portfolio demonstration"
